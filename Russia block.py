@@ -1,4 +1,5 @@
 #coding=utf-8
+#zhangyi
 from Tkinter import *;
 from random import *;
 import thread;   
